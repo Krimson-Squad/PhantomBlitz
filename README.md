@@ -6,7 +6,7 @@
 ![VIRUS-TOTAL-SCREENSHOT](https://github.com/devsdenepal/PhantomBlitz/blob/main/341264188_211432421592581_4782327762530171716_n.png?raw=true)
 ## Features
 
-- [x] Reverse TCP connection
+- [x] Reverse TCP Connection 
 - [x] Execute cmd commands
 - [x] Collect OS info
 - [x] Set clipboard text
